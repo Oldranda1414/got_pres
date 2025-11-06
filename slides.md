@@ -49,13 +49,28 @@ Ogni giocatore sceglie una 'casata' tra le 6 disponibili:
 
 **R:6** per la lore delle case
 
+---
+
+Ogni casata ha:
+
+- 15 segnalini ordine (per dare ordini)
+- segnalini potere (per fare cose)
+- 7 carte
+- pedine colorate (fanti, cavalieri, navi, armi d'assedio)
+
+E anche un pezzo di cartone dietro cui nascondere le cose!
+
+Con dietro un riassunto delle regole...
+
+---
+
 # Overview
 
 Il gioco è diviso in 10 round
 
 Alla fine dei 10 round il giocatore che possiede più catelli o fortezze vince
 
-Se un giocatore arriva a possedere 7 castelli o fortezze vince immediatamente
+Se un giocatore arriva a possedere 7 castelli o roccaforti vince immediatamente
 
 Tranquilli non succederà mai, arriveremo sempre a 10 round
 
@@ -80,7 +95,7 @@ Tranquilli non succederà mai, arriveremo sempre a 10 round
 Per ogni mazzo:
 
 - pesca una carta
-- fai quello che c'è scritto
+- fai quello che c'è scritto (duh)
 
 ---
 
@@ -92,3 +107,115 @@ Cose speciali:
 - Scorte
 - Convocazione
 - Influenza (etchu)
+
+---
+
+# Bruti
+
+Ogni tanto attacano i bruti
+
+Ogni attacco ha una forza (un numero da 2 a 12)
+
+Tutti i giocatori decidono di nascosto quanti segnalini potere impegnare nella 'difesa dai bruti'
+
+**R:22-23**
+
+---
+
+# Bruti
+
+Si rivela assieme quanto si impegna
+
+Se il totale > forza bruti bene se no male
+
+A seconda se bene o male tutti ricevono penalita' o vantaggi
+
+**R:22-23**
+
+---
+
+# Scorte
+
+Quando esce la carta scorte si conta quanti 'barili' ogni casata ha
+
+I barili sono disegnati in giro per la mappa...
+
+Si aggiorna l'indicatore scorte in base a quanti 'barili' ha ciascuno
+
+Piu' barili hai piu eserciti puoi avere
+
+Nota: Un 'esercito' e' quando hai piu di una pedina in un territorio
+
+**R:8**
+
+---
+
+# Convocazione
+
+Quando esce la carta convocazione si possono spawnare nuove pedine nei territori con roccaforti o castelli
+
+Tipo risiko quando a inizio turno si aggiungono nuove pedine
+
+Per il come funziona... boh leggete le regole
+
+**R:9**
+
+---
+
+# Influenza
+
+Quando esce la carta 'Lo scontro dei re' si modificano gli indicatori di influenza:
+
+- Trono -> 'trono'
+- Feudi -> 'spada'
+- Corte -> 'corvo'
+
+**R:10**
+
+---
+
+# Influenza
+
+Per ogni categoria ogni giocatore decide di nascosto quanti segnalini potere offrire
+
+Si rivelano assieme
+
+Il numero di segnalini potere offerti determina la posizione negli indicatori
+
+**R:10**
+
+---
+
+# Influenza
+
+Il primo di ogni tracciato avra' un bonus:
+
+- Trono -> fa gli spareggi (tranne nelle battaglie)
+- Spada -> un punto in piu in una battaglia (ogni round)
+- Corvo -> cambiare un ordine o guardare la prossima carta bruti (ogni round)
+
+**R:11**
+
+---
+
+# Influenza
+
+La posizione negli indicatori determina:
+
+Trono -> ordine di turno
+Spada -> spareggio battaglie
+Corvo -> ordini speciali (stella)
+
+**R:11**
+
+---
+
+# Pianificazione
+
+- Assegnare gli ordini
+- Rivelare gli ordini
+- Usare il corvo
+
+Si mette un ordine coperto per ogni area con proprie truppe
+
+Tutti gli ordini si mettono simultaneamente
