@@ -384,4 +384,6 @@ In un round:
 
 Un sacco
 
-Date una letta alle regole vi prego
+Date una letta alle [regole](https://cdn.svc.asmodee.net/production-asmodeeit/uploads/2022/09/Il-Trono-di-Spade-GdT-ITA.pdf) vi prego
+
+[clicca qui](https://cdn.svc.asmodee.net/production-asmodeeit/uploads/2022/09/Il-Trono-di-Spade-GdT-ITA.pdf)
