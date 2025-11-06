@@ -1,14 +1,15 @@
 ---
 marp: true
 theme: gaia
+class: invert
 paginate: false
 ---
 
 <!-- _class: lead invert -->
 
-# Regole di GoTiGdT
-### (Game of Thrones: il Gioco da Tavolo)
-### Mooooolto riassunto
+# Regole di iTdSiGdT
+### (il Trono di Spade: il Gioco da Tavolo)
+### Mooooolto riassunte
 
 Leonardo Randacio
 
@@ -34,7 +35,7 @@ Bene
 
 <!-- _class: lead -->
 
-**R:x** -> x pagina del regolamento relativa
+**R:x** -> x pagina del regolamento per approfindire
 
 ---
 
@@ -53,14 +54,14 @@ Ogni giocatore sceglie una 'casata' tra le 6 disponibili:
 
 Ogni casata ha:
 
-- 15 segnalini ordine (per dare ordini)
-- segnalini potere (per fare cose)
-- 7 carte
+- 15 segnalini ordine -> per dare ordini
+- segnalini potere (SP) -> per fare cose
+- 7 carte -> per le battaglie
 - pedine colorate (fanti, cavalieri, navi, armi d'assedio)
 
 E anche un pezzo di cartone dietro cui nascondere le cose!
 
-Con dietro un riassunto delle regole...
+Con scritto un riassunto delle regole...
 
 ---
 
@@ -94,8 +95,8 @@ Tranquilli non succederà mai, arriveremo sempre a 10 round
 
 Per ogni mazzo:
 
-- pesca una carta
-- fai quello che c'è scritto (duh)
+- si rivela una carta
+- si fa quello che c'è scritto (duh)
 
 ---
 
@@ -112,11 +113,11 @@ Cose speciali:
 
 # Bruti
 
-Ogni tanto attacano i bruti
+Ogni tanto attaccano i bruti
 
 Ogni attacco ha una forza (un numero da 2 a 12)
 
-Tutti i giocatori decidono di nascosto quanti segnalini potere impegnare nella 'difesa dai bruti'
+Tutti i giocatori decidono di nascosto quanti SP impegnare nella 'difesa dai bruti'
 
 **R:22-23**
 
@@ -126,9 +127,9 @@ Tutti i giocatori decidono di nascosto quanti segnalini potere impegnare nella '
 
 Si rivela assieme quanto si impegna
 
-Se il totale > forza bruti bene se no male
+Se il totale > forza bruti -> bene se no male
 
-A seconda se bene o male tutti ricevono penalita' o vantaggi
+A seconda se bene o male tutti/alcuni ricevono penalita' o vantaggi
 
 **R:22-23**
 
@@ -176,11 +177,11 @@ Quando esce la carta 'Lo scontro dei re' si modificano gli indicatori di influen
 
 # Influenza
 
-Per ogni categoria ogni giocatore decide di nascosto quanti segnalini potere offrire
+Per ogni categoria ogni giocatore decide di nascosto quanti SP offrire
 
 Si rivelano assieme
 
-Il numero di segnalini potere offerti determina la posizione negli indicatori
+Il numero di SP offerti determina la posizione negli indicatori
 
 **R:10**
 
@@ -219,3 +220,22 @@ Corvo -> ordini speciali (stella)
 Si mette un ordine coperto per ogni area con proprie truppe
 
 Tutti gli ordini si mettono simultaneamente
+
+**R:12**
+
+---
+
+# Ordini
+
+- Marcia -> muovi le truppe
+- Difesa -> prepara a difenderti
+- Supporto -> aiuta una battaglia adiacente
+- Razzia -> rimuovi un ordine adiacente
+- Consolidamento -> ottiene SP
+
+**R:13**
+
+---
+
+# Azione
+
