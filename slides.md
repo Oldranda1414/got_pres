@@ -129,7 +129,7 @@ Si rivela assieme quanto si impegna
 
 Se il totale > forza bruti -> bene se no male
 
-A seconda se bene o male tutti/alcuni ricevono penalita' o vantaggi
+A seconda se bene o male tutti/alcuni ricevono penalità o vantaggi
 
 **R:22-23**
 
@@ -145,7 +145,7 @@ Si aggiorna l'indicatore scorte in base a quanti 'barili' ha ciascuno
 
 Piu' barili hai piu eserciti puoi avere
 
-Nota: Un 'esercito' e' quando hai piu di una pedina in un territorio
+Nota: Un 'esercito' è quando hai piu di una pedina in un territorio
 
 **R:8**
 
@@ -189,7 +189,7 @@ Il numero di SP offerti determina la posizione negli indicatori
 
 # Influenza
 
-Il primo di ogni tracciato avra' un bonus:
+Il primo di ogni tracciato avrà un bonus:
 
 - Trono -> fa gli spareggi (tranne nelle battaglie)
 - Spada -> un punto in piu in una battaglia (ogni round)
@@ -292,7 +292,7 @@ Alcuni territori danno SP aggiuntivi
 
 - Rimuovere tutti gli ordini rimasti
 - Girare i segnalini predominio (spada e corvo) se usati
-- Ripristinare le unita' in rotta
+- Ripristinare le unità in rotta
 
 **R:16**
 
@@ -300,7 +300,7 @@ Alcuni territori danno SP aggiuntivi
 
 # Combattimento
 
-Il combattimento e' la parte piu' importante del gioco
+Il combattimento è la parte piu' importante del gioco
 
 In breve:
 
@@ -329,7 +329,7 @@ Anche i giocatori non coinvolti possono fornire supporto
 
 1. Unità attaccanti/difendenti.
 2. Bonus ordine (marcia/difesa)
-3. Unita' supporto
+3. Unità supporto
 4. Segnalino Guarnigione (**R:26**).
 
 ---
@@ -340,6 +340,8 @@ Anche i giocatori non coinvolti possono fornire supporto
 - Cavaliere: +2 
 - Nave: +1 
 - Macchina d’Assedio: +4 se attacca roccaforte o castello, +0 altrimenti
+
+**R:17**
 
 ---
 
