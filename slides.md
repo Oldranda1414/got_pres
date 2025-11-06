@@ -371,11 +371,8 @@ andate a leggere **R:17-21**
 In un round:
 
 1. Pescare e risolvere eventi (tranne primo round)
-2. Fase di Pianificazione
-    1. Assegnare gli Ordini
-    2. Rivelare gli Ordini
-    3. Usare il Corvo
-3. Fase di Azione
+2. Assegnare e rivelare gli ordini
+3. Eseguire gli ordini
     1. Ordini Razzia
     2. Ordini Marcia (e combattimenti)
     3. Ordini Consolidamento
