@@ -239,3 +239,150 @@ Tutti gli ordini si mettono simultaneamente
 
 # Azione
 
+Gli ordini vengono eseguiti in questo ordine:
+
+- Razzia
+- Marcia (e combattimenti)
+- Consolidamento
+- Ripristino
+
+**R:14**
+
+---
+
+# Razzia
+
+A turno ogni giocatore esegue un suo ordine razzia
+
+L'ordine razzia rimuove un ordine adiacente tra:
+
+- razzia
+- supporto
+- consolidamento (rubando un SP)
+
+**R:14**
+
+---
+
+# Marcia
+
+A turno ogni giocatore esegue un suo ordine marcia
+
+Si possono muovere le pedine assieme o separatamente
+
+Se si muovono in territori occupati da altre pedine, avviene un combattimento
+
+**R:15**
+
+---
+
+# Consolidamento
+
+A turno ogni giocatore esegue un suo ordine marcia
+
+Si guadagna un SP
+
+Alcuni territori danno SP aggiuntivi
+
+**R:16**
+
+---
+
+# Ripristino
+
+- Rimuovere tutti gli ordini rimasti
+- Girare i segnalini predominio (spada e corvo) se usati
+- Ripristinare le unita' in rotta
+
+**R:16**
+
+---
+
+# Combattimento
+
+Il combattimento e' la parte piu' importante del gioco
+
+In breve:
+
+1. Richiedere Supporto
+2. Calcolare la Forza di Combattimento Iniziale
+3. Scegliere e Rivelare le Carte Casa
+4. Usare la Lama in Acciaio di Valyria
+5. Calcolare la Forza di Combattimento Finale
+6. Risoluzione del Combattimento
+
+**R:17-21**
+
+---
+
+# Richiedere Supporto
+
+Ogni ordine di supporto adiacente alla battaglia puo' fornire aiuto
+
+Anche i giocatori non coinvolti possono fornire supporto
+
+**R:17-18**
+
+---
+
+# Calcolare la Forza di Combattimento Iniziale
+
+1. Unità attaccanti/difendenti.
+2. Bonus ordine (marcia/difesa)
+3. Unita' supporto
+4. Segnalino Guarnigione (**R:26**).
+
+---
+
+# Calcolare la Forza di Combattimento Iniziale
+
+- Fante: +1 
+- Cavaliere: +2 
+- Nave: +1 
+- Macchina d’Assedio: +4 se attacca roccaforte o castello, +0 altrimenti
+
+---
+
+# Risoluzione del Combattimento
+
+1. Determinare il Vincitore
+2. Determinare le Perdite
+3. Ritirata e Rotta
+4. Ripristino Post-Combattimento
+
+**R:20-21**
+
+---
+
+# Combattimento
+
+Ovviamente questa parte era super riassunta
+
+E' pero' la parte piu' importante, quindi
+
+andate a leggere **R:17-21**
+
+---
+
+# Riassumendo
+
+In un round:
+
+1. Pescare e risolvere eventi (tranne primo round)
+2. Fase di Pianificazione
+    1. Assegnare gli Ordini
+    2. Rivelare gli Ordini
+    3. Usare il Corvo
+3. Fase di Azione
+    1. Ordini Razzia
+    2. Ordini Marcia (e combattimenti)
+    3. Ordini Consolidamento
+    4. Ripristino
+
+---
+
+# Cose non dette
+
+Un sacco
+
+Date una letta alle regole vi prego
