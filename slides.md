@@ -15,7 +15,7 @@ Leonardo Randacio
 
 ---
 
-<!-- _class: lead -->
+<!-- _class: lead invert -->
 
 Prima di iniziare, guarda il trono di spade
 
@@ -25,7 +25,7 @@ Sono solo ~66 ore
 
 ---
 
-<!-- _class: lead -->
+<!-- _class: lead invert -->
 
 Fatto?
 
@@ -33,7 +33,7 @@ Bene
 
 ---
 
-<!-- _class: lead -->
+<!-- _class: lead invert -->
 
 **R:x** -> x pagina del regolamento per approfindire
 
@@ -81,7 +81,7 @@ Tranquilli non succederà mai, arriveremo sempre a 10 round
 
 3 fasi:
 
-- 'Eventi' (tranne primo round)
+- Eventi (tranne primo round)
 - Pianificazione
 - Azione
 
@@ -300,9 +300,7 @@ Alcuni territori danno SP aggiuntivi
 
 # Combattimento
 
-Il combattimento è la parte piu' importante del gioco
-
-In breve:
+Il combattimento è la parte piu' importante del gioco, in breve:
 
 1. Richiedere Supporto
 2. Calcolare la Forza di Combattimento Iniziale
@@ -317,7 +315,7 @@ In breve:
 
 # Richiedere Supporto
 
-Ogni ordine di supporto adiacente alla battaglia puo' fornire aiuto
+Ogni ordine di supporto adiacente alla battaglia può fornire aiuto
 
 Anche i giocatori non coinvolti possono fornire supporto
 
@@ -368,7 +366,7 @@ andate a leggere **R:17-21**
 
 # Riassumendo
 
-In un round:
+Ogni un round:
 
 1. Pescare e risolvere eventi (tranne primo round)
 2. Assegnare e rivelare gli ordini
